@@ -1,3 +1,29 @@
-#my-portrait {
-    width: 250px;
+body {
+  background-color: #ffa500 ;
+}
+
+
+
+
+
+
+   body {
+
+
+  color: red;
+
+
+}
+
+
+
+  a[href] {
+
+
+   color: #000000;
+
+
+   background-color: #FFFF00;
+
+
 }
