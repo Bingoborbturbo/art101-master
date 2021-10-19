@@ -1,0 +1,47 @@
+h1 {
+  font-family: "helvetica";
+  color: #FF00FF;
+  font-size: 100%;
+  margin-left: 10px;
+}
+img {
+   max-width:30%;
+   height:30%;
+}
+
+ img {
+  float: right;
+  padding: 15px;
+}
+
+
+body {
+  background-color: lightblue;
+}
+
+
+
+
+
+ol {
+  font-family: "helvetica";
+  color: black;
+  font-size: 100%;
+  margin-left: 20px;
+  text-indent: 5px;
+}
+pre {
+  color: black;
+  margin-left: -135px;
+}
+h2 {
+  font-family: "helvetica";
+  color: grey;
+  font-size: 100%;
+  margin-left: 10px;
+}
+p {
+  font-family: "helvetica";
+  font: blue;
+  margin-left: 20px;
+}
