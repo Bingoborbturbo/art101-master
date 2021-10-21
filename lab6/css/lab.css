@@ -1,0 +1,27 @@
+
+h1 {
+  color: yellow;
+  font-size: 200%;
+}
+
+p{
+  color: yellow;
+  font-family: sans-serif;
+  text-indent: 20px;
+  margin-left: 10px;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+#content {
+  /*look up the hex code of the color you want to change the bg to*/
+  background-color: hotpink;
+  width: 1000px;
+  min-height: 200px;
+  padding: 10px;
+  margin: 10px;
+  border: solid 1px #b0a6ff;
+  font-size: 20px;
