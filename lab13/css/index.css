@@ -14,25 +14,24 @@ table {
 }
 
 input, button {
-    font-size: 90%;
+    font-size: 70%;
 }
 
 div#input, div#output {
-    border: solid 1px #ccc;
-    padding: 20px;
-    background-color: rgba(250, 245, 255, 0.5);
+    border: solid 25px #cccdec;
+    padding: 80px;
+    background-color: rgba(25, 245, 25, 0.5);
 }
 
-/* this is to make the paragraphs in the output closer together */
+
 #output p {
-    margin-top: 0;
-    margin-bottom: 0;
+    margin-top: 35;
+    margin-bottom: 25;
 }
 
 #output.cols {
-    -webkit-column-width: 200px; /* Chrome, Safari, Opera */
-    -moz-column-width: 200px; /* Firefox */
-    column-width: 200px;
+    -webkit-column-width: 200px;
+
 }
 
 .error {
