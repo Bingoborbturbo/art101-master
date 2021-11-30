@@ -1,0 +1,40 @@
+input[type="number"] {
+    width: 60px;
+}
+input[type="text"] {
+    width: 90px;
+}
+
+input#max {
+    width: 60px;
+}
+
+table {
+    padding: 20px;
+}
+
+input, button {
+    font-size: 70%;
+}
+
+div#input, div#output {
+    border: solid 25px #cccdec;
+    padding: 80px;
+    background-color: rgba(25, 245, 25, 0.5);
+}
+
+
+#output p {
+    margin-top: 35;
+    margin-bottom: 25;
+}
+
+#output.cols {
+    -webkit-column-width: 200px;
+
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
