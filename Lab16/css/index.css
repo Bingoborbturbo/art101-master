@@ -1,0 +1,14 @@
+.padding{
+  width: 100px;
+  border: 300px yellow;
+  padding: 50px;
+  margin: 70px;
+  padding-top: 60px;
+  padding-right: 70px;
+  padding-bottom: 20px;
+  padding-left: 200px;
+  background-color: green;
+}
+.font{
+  font-size: 30px;
+}
